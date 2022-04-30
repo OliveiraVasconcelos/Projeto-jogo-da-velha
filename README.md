@@ -1,4 +1,5 @@
-<h1>Jogo-da-Velha(tic-tac-toe)</h1>
+![Captura de Tela (6)](https://user-images.githubusercontent.com/96830593/166110285-a07ae7d1-5e45-452a-a254-e9ae73d02dfc.png)
+
 
 >Status: Developing ⚠️ 
 

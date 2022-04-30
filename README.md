@@ -1,4 +1,6 @@
 ![Captura de Tela (6)](https://user-images.githubusercontent.com/96830593/166110285-a07ae7d1-5e45-452a-a254-e9ae73d02dfc.png)
+![Captura de Tela (11)](https://user-images.githubusercontent.com/96830593/166110713-3b9ee5c6-21b6-40a5-9a43-770a3f6bdfde.png)
+![Captura de Tela (20)](https://user-images.githubusercontent.com/96830593/166111026-3b01e5bd-7b8a-4576-b7b8-1cb8d3fed2ba.png)
 
 
 >Status: Developing ⚠️ 
